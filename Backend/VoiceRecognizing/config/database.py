@@ -4,6 +4,7 @@ from sqlalchemy.orm.session import sessionmaker
 from sqlalchemy.ext.declarative import declarative_base
 
 # usaremos postgress
+# Nombre negocio 
 
 SQLALCHEMY_DATABASE_URL = 'postgresql://postgres:guitarra2@localhost/productos'
 
